@@ -1,0 +1,9 @@
+C:\Users\igor.hollaender\Documents\PSoC Creator\USBFS_UART02\Bootloader_PSoC4_Example01.cydsn\Bootloader_PSoC4_Example01.cyprj|ee46f116-1b99-4cf7-a9c3-c91c307a0063
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7da3f3a1-ca55-4421-add3-667451b7dd28
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|a8563f2c-27d6-4cd3-b71f-524c7ef02e10
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b6d6796d-d93a-4b56-a86a-fe98a94ff3d9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f9a59e53-0d27-44ae-bc77-efb9dabde3a5
+C:\Users\igor.hollaender\Documents\PSoC Creator\USBFS_UART02\Bootloadable_PSoC4_Example01.cydsn\Bootloadable_PSoC4_Example01.cyprj|d007e434-0b47-48d8-8a60-722d4628e8e4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|3dc511ac-542b-4162-991c-44c3c5b37635
+C:\Users\igor.hollaender\Documents\PSoC Creator\USBFS_UART02\CapSense_CSD_P4_Proximity_Design01.cydsn\CapSense_CSD_P4_Proximity_Design01.cyprj|853f383c-67c5-4ba8-89ff-09237a6ed9f1
+C:\Users\igor.hollaender\Documents\GitHub\CY8Server\Sensor\IH_CapGauge01.cydsn\IH_CapGauge01.cyprj|46f369c3-8984-423d-a71f-1943d1e749e2
